@@ -1,0 +1,7 @@
+{
+	"git_release_repositories": [
+		"libnapc-linux-releases",
+		"libnapc-arduino-releases",
+		"libnapc-documentation"
+	]
+}
